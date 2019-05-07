@@ -5,12 +5,12 @@ import (
 	"html/template"
 	"net/http"
 
-	"github.com/qor/admin"
-	"github.com/qor/qor/utils"
+	"github.com/itech-eng/admin"
+	"github.com/itech-eng/qor/utils"
 )
 
 func init() {
-	admin.RegisterViewPath("github.com/qor/action_bar/views")
+	admin.RegisterViewPath("github.com/itech-eng/action_bar/views")
 }
 
 // ActionBar stores configuration about a action bar.

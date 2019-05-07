@@ -10,9 +10,9 @@ import (
 	"testing"
 
 	"github.com/fatih/color"
-	"github.com/qor/admin"
-	"github.com/qor/qor"
-	"github.com/qor/qor/test/utils"
+	"github.com/itech-eng/admin"
+	"github.com/itech-eng/qor"
+	"github.com/itech-eng/qor/test/utils"
 
 	"github.com/headzoo/surf"
 )
